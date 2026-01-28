@@ -1,0 +1,11 @@
+<!-- No external libraries required for this implementation -->
+
+<!-- All functionality is implemented with vanilla JavaScript -->
+<!-- All styling is implemented with native CSS -->
+
+<!-- Optional: If you want to add icon libraries in the future, you can use: -->
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script> -->
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"> -->
+
+<!-- Note: This page uses emoji icons and native browser features only -->
+<!-- No external dependencies = faster loading and better performance -->
