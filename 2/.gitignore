@@ -1,7 +1,0 @@
-# Игнорировать все кроме файлов проекта
-*
-!.gitignore
-!page.html
-!style.css
-!script.js
-!libraries.txt
